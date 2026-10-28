@@ -1,0 +1,33 @@
+Company: BrightTech Solutions
+
+About:
+BrightTech Solutions is a fictional technology company used
+for demonstrating a Retrieval-Augmented Generation chatbot.
+
+Services:
+The company offers web development, mobile application
+development, cloud consulting, and AI solutions.
+
+Working Hours:
+Monday to Friday: 9 AM to 6 PM.
+Saturday: 10 AM to 2 PM.
+Sunday: Closed.
+
+Pricing:
+Basic website development starts at Rs. 15,000.
+Mobile application development starts at Rs. 40,000.
+AI chatbot development starts at Rs. 25,000.
+
+Support:
+Customers can contact the support team during working hours.
+
+Payment:
+The company accepts bank transfers and digital payments.
+
+Location:
+Mumbai, India.
+
+Note:
+This is fictional example data. It does not represent
+a real company's actual services or prices.
+
